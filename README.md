@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Bill
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me billellis@outlook.com
