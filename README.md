@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bill
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in AI, AR, Data Science
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me billellis@outlook.com
+- 📫 How to reach me t.me/birubeer
